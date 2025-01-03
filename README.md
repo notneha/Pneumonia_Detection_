@@ -17,7 +17,7 @@ Diagnosis of Pneumonia often starts with medical history and self reported sympt
 ## Dataset
 This project uses ResNet-50, a deep convolutional neural network, to classify chest X-ray images into normal or pneumonia-affected categories. It employs the Chest X-ray Images (Pneumonia) dataset from Kaggle, linked below:
 
-**Dataset Link:** [Chest X-ray Pneumonia Dataset] (https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+**Dataset Link:** [Chest X-ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 ### Dataset Structure
 The dataset is divided into 2 directories:
@@ -64,7 +64,8 @@ The workflow for this project follows these steps:
 4. Evaluation:
 
 - Measure performance using metrics like accuracy, precision, recall, and F1 score.
+![](images/ClassificationReport.jpg)
 5. Visualization:
 
 - Generate and analyze confusion matrices and other evaluation plots.
-
+![](images/Visualization.jpg)
