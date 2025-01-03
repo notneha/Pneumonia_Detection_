@@ -1,3 +1,4 @@
+![](images/Normal_Pneumonia.jpg)
 # Pneumonia Detection Using RestNet-50
 Pneumonia Detection using ResNet-50 is repository contains all the files and scripts necessary for training and testing a deep learning model to detect pneumonia using chest X-ray images. This includes:
 
